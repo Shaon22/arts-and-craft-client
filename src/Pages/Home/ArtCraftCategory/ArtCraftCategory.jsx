@@ -35,7 +35,7 @@ category.map(cate=>
                           
                           <h2 className="text-xl font-semibold tracking-wide">{cate.subcategory_Name}</h2>
               </div>
-              <p className="text-gray-100 dark:text-gray-800">{cate.description}</p>
+              <p className="text-gray-100 dark:text-gray-700">{cate.description}</p>
               
             </div>
 
