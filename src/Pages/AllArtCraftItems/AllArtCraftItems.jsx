@@ -13,7 +13,7 @@ const AllArtCraftItems = () => {
             </Helmet>
 
                               <div className="overflow-x-auto">
-  <table className="table text-green-700">
+  <table className="table text-green-600">
     {/* head */}
     <thead>
       <tr>
